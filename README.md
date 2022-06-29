@@ -1,73 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Project Name
 
-# Project Name
+ Hello Microverse.
 
-> Description the project.
+## Description of project.
 
+ School project.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+Html.
+Css.
 
-## Live Demo (if available)
+## Prerequisites
 
-[Live Demo Link](https://livedemo.com)
+ Vscode.
 
+## Setup
 
-## Getting Started
+Clone this repo with:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+https://github.com/eerapheal/class-project/pull/1
 
+## Install
 
-To get a local copy up and running follow these simple example steps.
+npm install
 
-### Prerequisites
+## Author
 
-### Setup
+ Ekpenisi Erue Raphael.
+GitHub: (https://github.com/eerapheal)
+Twitter: (https://twitter.com/ekpenisiraphael)
+LinkedIn: (https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a star if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+My Team.
 
-## 📝 License
+## License
 
-This project is [MIT](./MIT.md) licensed.
+This project is Ralph licensed.
